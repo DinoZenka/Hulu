@@ -3,9 +3,10 @@ import Header from '../components/Header';
 import Nav from '../components/Nav';
 import requests from '../utils/requests';
 import Results from '../components/Results';
+import { useEffect } from 'react';
 
 export default function Home(props) {
-  console.log(props)
+  // console.log(props)
   return (
     <div>
       <Head>

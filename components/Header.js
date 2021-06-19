@@ -20,10 +20,9 @@ function Header() {
         <HeaderItem title='Collections' Icon={CollectionIcon} />
         <HeaderItem title='Search' Icon={SearchIcon} />
         <HeaderItem title='Account' Icon={UserIcon} />
-
-
       </div>
       <Image
+        alt='Hulu: Logo'
         src='https://links.papareact.com/ua6'
         width={200}
         height={100}
